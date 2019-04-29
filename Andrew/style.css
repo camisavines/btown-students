@@ -1,0 +1,13 @@
+body {
+    /* color: darkorange; */
+    background-color: blue;
+}
+
+.name {
+    font-size: 55pt;
+}
+
+.containers {
+    margin-left: 5%;
+    margin-right: 5%;
+}
